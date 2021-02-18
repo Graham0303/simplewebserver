@@ -69,3 +69,4 @@ httpd.serve_forever()
 
 
 ## RESULT:
+Thus a website is designed for a simple webserver to serve html pages and is hosted in the URL : http://graham.student.saveetha.in/ . HTML code is validated.
